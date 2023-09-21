@@ -1,1 +1,2 @@
-# My capstone project for the Meta Front-End Developer Professional Certificate
+# Little Lemon Website
+# Capstone for Meta Frontend Web Development
