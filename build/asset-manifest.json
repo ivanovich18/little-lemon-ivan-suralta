@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50fb83f5.css",
+    "main.js": "/static/js/main.9b86eb28.js",
+    "static/js/787.b7de270b.chunk.js": "/static/js/787.b7de270b.chunk.js",
+    "static/media/chefs-mario-and-adrian_a.jpg": "/static/media/chefs-mario-and-adrian_a.baf0d2e31dc6977f913f.jpg",
+    "static/media/chefs-mario-and-adrian_b.jpg": "/static/media/chefs-mario-and-adrian_b.5d8cccd399ab68c5c40b.jpg",
+    "static/media/greek-salad.jpg": "/static/media/greek-salad.25fc793faeb3d58ed9fb.jpg",
+    "static/media/bruschetta.jpg": "/static/media/bruschetta.d54e450bda5efcf06010.jpg",
+    "static/media/restaurant-food.jpg": "/static/media/restaurant-food.827fb0bfe6f625329f41.jpg",
+    "static/media/logo-white.png": "/static/media/logo-white.d09eb2af6c5a2225eedf.png",
+    "static/media/lemon-dessert.png": "/static/media/lemon-dessert.87bab5b5f4bbddf10235.png",
+    "static/media/logo.png": "/static/media/logo.e68246686f716ff6e5d8.png",
+    "index.html": "/index.html",
+    "main.50fb83f5.css.map": "/static/css/main.50fb83f5.css.map",
+    "main.9b86eb28.js.map": "/static/js/main.9b86eb28.js.map",
+    "787.b7de270b.chunk.js.map": "/static/js/787.b7de270b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50fb83f5.css",
+    "static/js/main.9b86eb28.js"
+  ]
+}
