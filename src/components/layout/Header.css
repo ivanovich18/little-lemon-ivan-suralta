@@ -54,12 +54,14 @@
   padding-bottom: 1.5rem;
   text-transform: uppercase;
   transition: background-color 0.5s;
+  text-decoration: none; 
 }
 
-.current-location, 
-.nav-bar-links a:hover, 
-.nav-bar-links a:focus {
-  background-color: #F4CE14;
+
+.nav-bar-links a:hover {
+  /* background-color: #F4CE14; */
+  text-decoration: underline;
+  transition: text-decoration 0.3s ease;
 }
 
 @media only screen and (max-width: 992px) {

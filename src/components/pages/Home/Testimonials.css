@@ -15,6 +15,9 @@
   grid-row: 1;
   margin-bottom: 1.875rem;
   color: #FFFFFF;
+  text-align: center;
+  justify-self: center;
+  font-size: 4rem;
 }
 
 /*-- Media queries ------------------------------------------------------*/

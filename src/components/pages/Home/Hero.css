@@ -15,24 +15,29 @@
 
 .hero-information h1 {
   color: #F4CE14;
+  font-size: 4rem;
 }
 
 .hero-information h2 {
   color: #FFFFFF;
+  font-size: 2rem;
 }
 
 .hero-information p {
   margin-top: 1.5rem;
   color: #FFFFFF;
+  font-size: 1.125rem;
 }
 
 .hero-information .button-primary {
   display: inline-block;
   margin-top: 2rem;
+  border-radius: 12px;
 }
 
 .hero-information .button-primary:hover, 
 .hero-information .button-primary:focus {
+  color: #FFFFFF;
   border-color: #F4CE14;
 }
 
